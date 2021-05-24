@@ -1,7 +1,7 @@
 # Hey there ! I am João Vitor ! &emsp;  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px">
 
 
-**joaovitor2614/joaovitor2614** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 <p>
     Visitor Count<br>
