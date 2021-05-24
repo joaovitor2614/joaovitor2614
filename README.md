@@ -2,7 +2,7 @@
 
 <!--
 **joaovitor2614/joaovitor2614** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![Visitor Count](https://profile-counter.glitch.me/{joaovitor2614}/count.svg)
 <p>
     Visitor Count<br>
     <img src="https://profile-counter.glitch.me/joaovitor2614/count.svg" />
