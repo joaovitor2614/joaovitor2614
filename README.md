@@ -1,4 +1,6 @@
-# Hey there ! I am undergraduate geophysics student at Universidade Federal Fluminense and a Full Stack Software Developer ! &emsp;  <img src="https://lh3.googleusercontent.com/proxy/7rDeqFuxbqVWeodI0_D0fWPfxwSes2YmtmTlznzCr3Zwuuah-e4g3J-dM7NeJb605RDAbnDvCIcQ2eiCxnFKEn1TZw4fdp8YBG8FQwZijW8JPjIn-MgrWRdXjywH2k3glB17RIeqUDwsKkQEx9JyxuupnunDQALacmacAGk" width="200px" heigh="100px">
+# Hey there ! I am undergraduate geophysics student at Universidade Federal Fluminense and a Full Stack Software Developer ! &emsp;  
+
+<img src="https://lh3.googleusercontent.com/proxy/7rDeqFuxbqVWeodI0_D0fWPfxwSes2YmtmTlznzCr3Zwuuah-e4g3J-dM7NeJb605RDAbnDvCIcQ2eiCxnFKEn1TZw4fdp8YBG8FQwZijW8JPjIn-MgrWRdXjywH2k3glB17RIeqUDwsKkQEx9JyxuupnunDQALacmacAGk" width="200px" heigh="100px">
 
 
 
