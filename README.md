@@ -1,6 +1,7 @@
-# Hey there ! I am undergraduate geophysics student at Universidade Federal Fluminense and a Full Stack Software Developer ! &emsp;  
+# Hey there ! I am undergraduate geophysics student at Universidade Federal Fluminense and a Full Stack Software Developer ! &emsp;
 
-<img src="https://lh3.googleusercontent.com/proxy/7rDeqFuxbqVWeodI0_D0fWPfxwSes2YmtmTlznzCr3Zwuuah-e4g3J-dM7NeJb605RDAbnDvCIcQ2eiCxnFKEn1TZw4fdp8YBG8FQwZijW8JPjIn-MgrWRdXjywH2k3glB17RIeqUDwsKkQEx9JyxuupnunDQALacmacAGk" width="200px" heigh="100px">
+<img src="./geo.jpg" width="200px" heigh="100px">
+<img src="./software.jfif" width="200px" heigh="100px">
 
 
 
@@ -18,7 +19,7 @@
 ### How to reach me
 
 
-<img src="https://img.shields.io/badge/jvitoralvesestrella@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="jvitoralvesestrella@gmail.com">   <a  href="https://www.instagram.com/joaoalvesestrella/"><img src="https://img.shields.io/badge/@joaoalvesestrella_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>   <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-alves-estrella-b3a74815a/"><img src="https://img.shields.io/badge/João Vitor Alves Estrella -%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> <a href="https://api.whatsapp.com/send?phone=21988749262&text=Send%20me%20a%20message!"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" ></a>   
+<img src="https://img.shields.io/badge/jvitoralvesestrella@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="jvitoralvesestrella@gmail.com">   <a  href="https://www.instagram.com/joaoalvesestrella/"><img src="https://img.shields.io/badge/@joaoalvesestrella_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>   <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-alves-estrella-b3a74815a/"><img src="https://img.shields.io/badge/João Vitor Alves Estrella -%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> <a href="https://api.whatsapp.com/send?phone=21988749262&text=Send%20me%20a%20message!"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" ></a>
 
 
 
