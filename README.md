@@ -1,7 +1,6 @@
 # Hey there ! I am undergraduate geophysics student at Universidade Federal Fluminense and a Full Stack Software Developer ! &emsp;
 
-<img src="./geo.jpg" width="200px" heigh="100px">
-<img src="./software.jfif" width="200px" heigh="100px">
+
 
 
 
