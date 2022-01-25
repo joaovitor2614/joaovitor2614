@@ -22,8 +22,7 @@
 
 
 
-- 🔭 I’m currently progamming on full stack web development
-- 🌱 I’m currently learning Python
+- 🔭 I’m currently progamming on vue.js stack
 - 👯 I’m looking to collaborate on full stack web projects
 - 💬 Ask me about JavaScript, React.js Stack, Node.js, Firebase, Css, Material-ui styles
 - ⚡ Fun fact: I think JoJo no Kimyo na Boken is a nice mainly anime
