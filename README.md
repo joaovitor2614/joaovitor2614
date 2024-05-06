@@ -2,6 +2,8 @@
 
 
 ### Portfolio
+- Well logs evaluation software: https://www.researchgate.net/publication/364356642_The_free_software_APPy_as_tool_for_formation_evaluation
+- Storage product & clashflow management MERN stack app: https://github.com/joaovitor2614/storage-cashflow-management-app
 - Website for accounting firm: https://www.estrellacontabilidade.com.br/
 
 
