@@ -1,14 +1,5 @@
-# Hey there ! I am undergraduate geophysics student at Universidade Federal Fluminense and a Full Stack Software Developer ! &emsp;
+# Hey there ! I am a Full Stack Software Developer and an undergraduate geophysics student at Universidade Federal Fluminense &emsp;
 
-
-
-
-
-
-<p>
-    Visitor Count<br>
-    <img src="https://profile-counter.glitch.me/joaovitor2614/count.svg" />
-</p>
 
 ### Portfolio
 - Website for accounting firm: https://www.estrellacontabilidade.com.br/
@@ -22,10 +13,10 @@
 
 
 
-- 🔭 I’m currently progamming on vue.js stack
+- 🔭 I’m currently progamming on Vue.js, PyQt, 
 - 👯 I’m looking to collaborate on full stack web projects
-- 💬 Ask me about JavaScript, React.js Stack, Node.js, Firebase, Css, Material-ui styles
-- ⚡ Fun fact: I think JoJo no Kimyo na Boken is a nice mainly anime
+- 💬 Ask me about JavaScript, React.js Stack, Node.js, and Python
+
 
 
 ### Tools I work upon : 🛠
