@@ -15,7 +15,7 @@
 
 
 
-- 🔭 I’m currently progamming on Vue.js, PyQt, 
+- 🔭 I’m currently progamming on PyQt, SQLAlchemy, Pytest. 
 - 👯 I’m looking to collaborate on full stack web projects
 - 💬 Ask me about JavaScript, React.js Stack, Node.js, and Python
 
