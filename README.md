@@ -16,7 +16,7 @@
 
 
 - 🔭 I’m currently progamming on PyQt, SQLAlchemy, Pytest. 
-- 👯 I’m looking to collaborate on full stack web projects
+- 👯 I’m looking to collaborate on full stack web projects and geophysics desktop software!
 - 💬 Ask me about JavaScript, React.js Stack, Node.js, and Python
 
 
