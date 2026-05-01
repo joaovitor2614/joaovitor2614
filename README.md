@@ -56,7 +56,7 @@ I build software that bridges the gap between **earth science** and **technology
 **Well Log Web App**
 > Web platform for quantitative formation evaluation and well log interpretation. Built for geoscientists who need fast, visual petrophysical analysis in the browser.
 
-`Python` `Web`
+`Typescript` `Vue.js` `FastAPI` `Python` `MongoDB` `WebApp`
 
 </td>
 <td width="50%" valign="top">
@@ -65,7 +65,7 @@ I build software that bridges the gap between **earth science** and **technology
 **Quantitative Seismic Interpretation Software**
 > Desktop application for advanced seismic interpretation. Published and presented at the 19th CISBGf — Brazilian Geophysical Society congress.
 
-`Python` `HDF5` `PyQt`
+`Python` `HDF5` `PyQt` `Pytest` `SQLAlchemy` `Desktop`
 
 </td>
 </tr>
@@ -76,7 +76,7 @@ I build software that bridges the gap between **earth science** and **technology
 **Formation Evaluation Research Software**
 > Peer-reviewed research software for petrophysical analysis and well log interpretation. Published on ResearchGate.
 
-`Python` `Research`
+`Javascript` `Vue.js` `Flask` `Python` `MongoDB` `Desktop`
 
 </td>
 <td width="50%" valign="top">
@@ -85,7 +85,7 @@ I build software that bridges the gap between **earth science** and **technology
 **Corporate Website**
 > Professional website developed for an accounting firm. Clean, modern, and client-focused design with full responsiveness.
 
-`Web` `Full Stack`
+`React.js` `Node.js` `Website`
 
 </td>
 </tr>
