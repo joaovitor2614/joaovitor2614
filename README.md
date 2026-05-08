@@ -19,9 +19,6 @@
 <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-alves-estrella-b3a74815a/">
   <img src="https://img.shields.io/badge/LinkedIn-c2185b?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://www.instagram.com/joaoalvesestrella/">
-  <img src="https://img.shields.io/badge/Instagram-6a0572?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
 <a href="https://api.whatsapp.com/send?phone=21988749262&text=Send%20me%20a%20message!">
   <img src="https://img.shields.io/badge/WhatsApp-00897b?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
